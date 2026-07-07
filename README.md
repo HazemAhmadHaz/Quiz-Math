@@ -38,14 +38,6 @@ This project is a quiz game where the user answers math questions and receives a
 
 ---
 
-## 🚀 How to Run
-
-1. Open the project in Visual Studio
-2. Build the solution
-3. Run the program (Start Without Debugging)
-
----
-
 ## 📷 Preview
 
 <p align="center">
